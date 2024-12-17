@@ -21,11 +21,11 @@ for (let i = 0; i < ownerlist.length; i += 2) {
     global.owner.push(owner);
 }
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "917005658594" //put your bot number here
 
-global.mods = ['2349013432338', '2349013432338']
-global.prems = ['2349013432338', '2349013432338', '2349013432338']
-global.allowed = ['2349013432338', '2349013432338', '2349013432338']
+global.mods = ['917005658594', '918259867947']
+global.prems = ['917005658594', '918259867947', '919863840872']
+global.allowed = ['917005658594', '918259867947', '919863840872']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = [
@@ -69,16 +69,16 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = process.env.BOTNAME
-global.premium = 'false'
-global.packname = 'FIRE MD'
-global.author = 'OPAKSFIRE'
+global.botname = process.env.۝vAiPA۝
+global.premium = 'true'
+global.packname = '۝vAiPA۝'
+global.author = 'OPAKS-FIRE'
 global.menuvid = 'https://files.catbox.moe/r9oil6.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/\n'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/ka_ning_ka_kal_dawn'
 global.dygp = 'https://whatsapp.com/channel/0029VajYjMJJf05aRQXKx82W'
-global.fgsc = 'https://github.com/'
-global.fgyt = 'https://youtube.com/'
-global.fgpyp = 'https://youtube.com/'
+global.fgsc = 'https://github.com/JRohluosangEditz
+global.fgyt = 'https://youtube.com/ASTRO PLAYS
+global.fgpyp = 'https://youtube.com/HMAR EXPORT 
 global.fglog = 'https://api.shannmoderz.xyz/server/file/XyjKP6IA0VnyFZF.jpg'
 global.thumb = fs.readFileSync('./Assets/fire.jpg')
 
